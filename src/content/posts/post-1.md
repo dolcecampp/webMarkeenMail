@@ -2,7 +2,7 @@
 title: 'We Are -  Markeen'
 description: 'marketing agency with services of seo and more'
 date: 2022-04-04T05:00:00Z
-image: '/images/posts/01.jpg'
+image: '/images/posts/04.jpg'
 categories: ['marketing']
 authors: ['Campos Nicolas']
 tags: ['marketing', 'sales']
