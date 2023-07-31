@@ -8,13 +8,13 @@ what_i_do:
   title: 'What I Do'
   items:
     - title: 'Web Design'
-      description: 'web Page Design: Learn the fundamentals to create attractive and functional websites enhance your online presence with our best web design practices.'
+      description: 'Leverage the essential fundamentals to create attractive and highly functional websites, and enhance your online presence with our top-notch web design practices. Our expert team combines creative design with user-centric approaches to deliver visually stunning and user-friendly websites.'
 
     - title: 'Social Media'
-      description: 'unlock the power of social media with expert tips on building a strong online presence.'
+      description: 'Discover invaluable insights and cutting-edge strategies that will empower your brand to stand out in the digital realm. From engaging content creation to strategic audience targeting, our guidance will elevate your social media game and drive unparalleled growth for your business.'
 
     - title: 'Overall Design'
-      description: 'unleash the potential of impactful design with our comprehensive guide Learn how to create visually stunning and user-friendly experiences that captivate audiences across various platforms and elevate your brand image.'
+      description: 'Unleash the potential of impactful design with our comprehensive guide Learn how to create visually stunning and user-friendly experiences that captivate audiences across various platforms and elevate your brand image.'
 ---
 
 "Welcome to my creative world! I'm a passionate web designer and marketing analyst with expertise in web design, data-driven marketing strategies, and captivating social media campaigns.
