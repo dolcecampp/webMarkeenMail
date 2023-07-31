@@ -96,7 +96,7 @@ const { title, description, authors, categories, image, date, tags } =
           <Content />
         </div>
         <div class="flex flex-wrap items-center justify-between">
-          <ul class="mb-4 mr-4 space-x-3">
+          <!-- <ul class="mb-4 mr-4 space-x-3">
             {
               tags.map((tag: string) => (
                 <li class="inline-block">
@@ -109,7 +109,7 @@ const { title, description, authors, categories, image, date, tags } =
                 </li>
               ))
             }
-          </ul>
+          </ul> -->
           <Share
             className="social-share mb-4"
             title={title}
@@ -127,7 +127,6 @@ const { title, description, authors, categories, image, date, tags } =
   similarPosts.length > 0 && (
     <section class="section pt-0">
       <div class="container">
-        <h2 class="h3 mb-8 text-center">Similar Posts</h2>
         <SimilarPosts posts={similarPosts.slice(0, 3)} />
       </div>
     </section>

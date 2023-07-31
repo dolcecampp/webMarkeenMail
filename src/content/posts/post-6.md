@@ -5,7 +5,7 @@ image: '/images/posts/01.jpg'
 date: 2021-02-03T16:56:47+06:00
 draft: false
 authors: ['Mark Dinn']
-tags: ['Alarm', 'Clock']
+tags: ['marketing', 'sales']
 categories: ['LifeStyle']
 ---
 

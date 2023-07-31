@@ -8,13 +8,13 @@ what_i_do:
   title: 'What I Do'
   items:
     - title: 'Web Design'
-      description: 'Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis.'
+      description: 'web Page Design: Learn the fundamentals to create attractive and functional websites enhance your online presence with our best web design practices.'
 
     - title: 'Social Media'
-      description: 'Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis.'
+      description: 'unlock the power of social media with expert tips on building a strong online presence.'
 
     - title: 'Overall Design'
-      description: 'Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis.'
+      description: 'unleash the potential of impactful design with our comprehensive guide Learn how to create visually stunning and user-friendly experiences that captivate audiences across various platforms and elevate your brand image.'
 ---
 
 "Welcome to my creative world! I'm a passionate web designer and marketing analyst with expertise in web design, data-driven marketing strategies, and captivating social media campaigns.
