@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Markeen",
-    "base_url": "https://agenciamarkeen.com",
+    "base_url": "https://bookworm-light-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -18,7 +18,7 @@
 
   "metadata": {
     "meta_author": "Markeen",
-    "meta_image": "/images/logo.png",
+    "meta_image": "/images/og-image.png",
     "meta_description": "Marketing agency web design"
   },
 
