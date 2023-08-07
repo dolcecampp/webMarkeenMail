@@ -1,29 +1,37 @@
 ---
-title: "Privacy"
-description: "this is meta description"
+title: 'Privacy'
+description: 'this is meta description'
 draft: false
 ---
 
-#### Responsibility of Contributors
+#### Responsibility of Contributors:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+At Markeen, we are committed to protecting your privacy and personal data. This privacy policy describes how we collect, use, and protect the information you provide to us through our website, especially in the contact form.
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+#### Information we collect:
 
-#### Gathering of Personal Information
+When you fill out our contact form, we collect your name and email address to respond to your inquiries and provide you with the information you need. We do not collect additional information without your explicit consent.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+#### Use of information:
 
-#### Protection of Personal- Information
+The information you provide is used solely for the purpose of responding to your inquiries and efficiently providing our services. We will not share, sell, or rent your personal information to third parties without your prior consent, unless required by law.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+#### Data Security:
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+We maintain technical, administrative, and physical security measures to protect your personal data from loss, theft, unauthorized use, disclosure, or modification. Only authorized personnel have access to your data and are obligated to maintain its confidentiality.
 
-#### Privacy Policy Changes
+#### Cookies:
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+Our website uses cookies to enhance your online experience. Cookies are small files stored on your device when you visit our site. These cookies allow us to analyze website traffic and personalize content to suit your interests. You can configure your browser to reject cookies or notify you when cookies are sent.
+
+#### Links to Third-Party Sites:
+
+Our website may contain links to third-party websites. We are not responsible for the privacy practices of such sites. We recommend reviewing the privacy policies of those sites before providing any personal information.
+
+#### Changes to the Privacy Policy:
+
+We reserve the right to modify this privacy policy at any time. Any changes to the privacy policy will be posted on this page and will be effective immediately upon posting.
+
+If you have any questions or concerns about our privacy policy or the use of your personal data, please do not hesitate to contact us at info@agenciamarkeen.com
+
+Effective Date: 2023.
